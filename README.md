@@ -12,7 +12,7 @@ Grab the repo and install the dependencies.
 
 ```bash
 git clone git@github.com:auth0-blog/jwts-in-python.git
-cd whats-new-flask-2
+cd jwts-in-python
 python3 -m venv .env
 source .env/bin/activate
 pip install -U pip
